@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SampleApplicationComponent</string>
+    <string name="main_name">Main Activity</string>
+    <string name="other_name">Other Activity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
